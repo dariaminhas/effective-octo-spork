@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+    <title>WEBPAGE</title>
+	<link rel="stylesheet" href="style.css">
+  </head>
+  
+  <body>
+
+<h1>The Movement of Molecules Across a Membrane</h1>
+
+	  <div class="nav_bar">
+		  <ul>
+			  <li><a href="membrane.html">The Cell Membrane</a></li> 
+			  <li><a href="passive.html">Passive Transport</a></li>
+			  <li><a href="active.html">Active Transport</a></li>
+			  <li><a href="osmosis.html">Osmosis</a></li>
+			  
+		  </ul>
+	  </div>
+		
+	<img src="basic.png" alt="Basic" width="900" height="500">	
+		  
+  <h2>What is a concentration gradient?</h2>
+  <p>The difference in the concentration of a substance between two areas is called the concentration gradient . The bigger the difference, the steeper the concentration gradient and the faster the molecules of a substance will diffuse.</p>
+  
+  <h2>What is an electrochemical gradient?</h2>
+  <p>An electrochemical gradient is just like a concentration gradient, except with electrica charge. It is the driving force across a plasma membrane that dictates whether an ion will move into or out of a cell and it is established by both the concentration difference and the electrical charge difference between the surfaces of the membrane.</p>
+  
+  <h2>How do things move across a cell membrane?</h2>
+  <p>There are two major ways that substances are transported across cell membranes: passive tranport and active transport. However, these can be broke down into further sub-categories. 
+	  
+	  <img src="drawing.svg" alt="drawing" width="900" height="600">
+	  
+	</html>
